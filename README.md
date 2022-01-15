@@ -2,5 +2,5 @@
 
 ## Best codes, from Linkedin Learning courses
 
-- JavaScript: Formação Básica <i>Amanda Cavallaro</i>
-- JavaScript: Functions <i>Ray Villalobos</i>
+- JavaScript: Formação Básica | Por:<i>Amanda Cavallaro</i>
+- JavaScript: Functions | Por:<i>Ray Villalobos</i>
