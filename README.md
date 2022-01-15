@@ -1,5 +1,6 @@
-## Linkedin Learning, best exercices, topics, subjects..
+# Linkedin Learning, best exercices, topics, subjects..
 
-# Best codes, from Linkedin Learning courses
+## Best codes, from Linkedin Learning courses
 
-- JavaScript
+### - JavaScript: Formação Básica <i>Amanda Cavallaro</i>
+### - JavaScript: Functions <i>Ray Villalobos</i>
